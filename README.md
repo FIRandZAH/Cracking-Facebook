@@ -16,6 +16,7 @@ pkg install git -y
 pip install requests
 pip install rich
 pip install threading
+pip install tqdm 
 pip install pycryptodome
 ```
 
