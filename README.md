@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=88888833&width=435&lines=scropt+Cracking+Facebook+new+update" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=88888833&width=435&lines=scropt+Cracking+Facebook" alt="Typing SVG"/>
 </p>
 
 ## 🚀 Install and Run
@@ -15,7 +15,8 @@ install modul yang di butuhkan
 pkg install git -y
 pip install requests
 pip install rich
-pip install threading
+pip install bs4
+pip install subprocess
 pip install tqdm 
 pip install pycryptodome
 ```
