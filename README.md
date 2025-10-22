@@ -12,6 +12,8 @@
 install modul yang di butuhkan
 
 ```sh
+termux-setup-storage
+pkg install python
 pkg install git -y
 pip install requests
 pip install rich
