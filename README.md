@@ -23,17 +23,26 @@ pip install tqdm
 pip install pycryptodome
 ```
 
-install Script 
+install Script dan masuk folder 
 
 ```sh
 git clone --depth=1 https://github.com/FIRandZAH/Cracking-Facebook
 cd Cracking-Facebook
+```
+jalankan script premium 
+
+```sh
 python firzah.py
+```
+jalankan script free 
+
+```sh
+python main.py
 ```
 
 ##  🤝  Hubungi saya
 
-mailto bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
+butuh bantuan atau ada pertanyaan?  Silakan hubungi saya melalui:
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283170597744)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/firzah.892352?mibextid=ZbWKwL)
