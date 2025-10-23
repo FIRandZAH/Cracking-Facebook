@@ -32,7 +32,7 @@ cd Cracking-Facebook
 jalankan script premium 
 
 ```sh
-python firzah.py
+python premium.py
 ```
 jalankan script free 
 
