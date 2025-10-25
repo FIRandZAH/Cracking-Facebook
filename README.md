@@ -5,6 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=88888833&width=435&lines=scropt+Cracking+Facebook" alt="Typing SVG"/>
 </p>
+<p align="center">  
+  <strong>view script premium</strong>  
+</p>  
+<p align="center">  
+  <img src="IMG_20251025_074521_004.jpg" alt="view" width="400"/>  
 
 ## 🚀 Install and Run
 **premium** only 64bit
