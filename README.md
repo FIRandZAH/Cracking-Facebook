@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 Install and Run
-**only 64bit**
+**premium** only 64bit
 
 install modul yang di butuhkan
 
